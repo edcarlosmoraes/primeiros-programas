@@ -9,3 +9,6 @@ Este exercício recebe o valor de um empréstimo e calcula a sua parcela com jur
 
 ### Exercício 2 (02-maior-idade)
 Este exercício recebe a idade e informa se está apto para tirar a carteira de motorista
+
+### Exercício 3 (03-media-aprovacao)
+Este exercício irá receber duas notas e será calculado a media final e se o aluno foi aprovado ou não
