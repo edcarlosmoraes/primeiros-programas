@@ -14,4 +14,10 @@ Este exercício recebe a idade e informa se está apto para tirar a carteira de 
 Este exercício irá receber duas notas e será calculado a media final e se o aluno foi aprovado ou não
 
 ### Exercício 4 (04-media-aproveitamento)
-Neste exercício será informado dois números de notas e será calculo a media e a equivalência do conceito correspondente
+Neste exercício será informado dois números de notas e será calculo a media e a equivalência do conceito correspondenteS
+
+### Exercício 5 (05-contador-inteligente)
+Esse exercício traz a possibilidade de escolher se fará uma contagem crescente ou decrescente com dez números
+
+### Exercício 6 (06-seletor-de-pessoas)
+O exercício é composto por algumas características que o usuário informa e no final o programa faz um totalizador com os dados informado
