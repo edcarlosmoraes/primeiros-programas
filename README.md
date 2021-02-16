@@ -21,3 +21,9 @@ Esse exercício traz a possibilidade de escolher se fará uma contagem crescente
 
 ### Exercício 6 (06-seletor-de-pessoas)
 O exercício é composto por algumas características que o usuário informa e no final o programa faz um totalizador com os dados informado
+
+### Exercício 7 (07-serie-fibonacci)
+Este exercício faz o cálculo da série fibonacci com o número de repetições desejado
+
+### Exercício 8 (08-trabalhando-numeros)
+Utilizando uma sequência de números informado pelo usuário, será realizado alguns cálculos como, soma dos números, média, números divísiveis por 5, pares e nulos
