@@ -27,3 +27,9 @@ Este exercício faz o cálculo da série fibonacci com o número de repetições
 
 ### Exercício 8 (08-trabalhando-numeros)
 Utilizando uma sequência de números informado pelo usuário, será realizado alguns cálculos como, soma dos números, média, números divísiveis por 5, pares e nulos
+
+### Exercício 9 (09-par-ou-impar)
+O usuário informa um número e o programa retorna se é par ou se é impar
+
+### Exercício 10 (placar-times)
+É informado quantos gols cada time fez na partida, e o programa informa se foi empate, placar normal ou goleada
