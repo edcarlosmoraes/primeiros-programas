@@ -33,3 +33,9 @@ O usuário informa um número e o programa retorna se é par ou se é impar
 
 ### Exercício 10 (placar-times)
 É informado quantos gols cada time fez na partida, e o programa informa se foi empate, placar normal ou goleada
+
+### Exercício 11 (tabela-campeonato)
+Esse exercício monta uma tabela com os confrontos dos jogos após o usuário informar os times que se enfrentarão
+
+### Execício 12 (gabarito-notas)
+Após cadastrar o gabarito com as respostas, o exercício cadastra as respostas dos alunos e informa a nota de cada aluno
