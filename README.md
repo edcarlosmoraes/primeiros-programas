@@ -39,3 +39,6 @@ Esse exercício monta uma tabela com os confrontos dos jogos após o usuário in
 
 ### Execício 12 (gabarito-notas)
 Após cadastrar o gabarito com as respostas, o exercício cadastra as respostas dos alunos e informa a nota de cada aluno
+
+### Exercício 13 (opcoes-matriz)
+Esse exercício traz um menu com opções de visualização da matriz, como diagonal principal, triângulo inferior e superior
